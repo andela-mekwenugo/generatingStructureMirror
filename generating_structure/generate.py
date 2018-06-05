@@ -59,7 +59,3 @@ class GenerateStructure(object):
         operations = self._get_base_operation(action, pause_campaign_operande)
 
         return operations
-
-if __name__ == '__main__':
-    import doctest
-    doctest.testmod()
