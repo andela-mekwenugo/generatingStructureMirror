@@ -7,8 +7,8 @@ class GenerateStructure(object):
 
     def _get_base_operation(self, operator, operand):
         operations_base = {
-            "operator": operator,
-            "operand": operand
+            'operator': operator,
+            'operand': operand
         }
         return operations_base
 
