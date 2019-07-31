@@ -14,5 +14,5 @@ You can join the data together on the AdGroupId
 #    Cost, Impressions and Clicks
 #
 
-# 3: Take the dataset you created in assignment 1. Find the cost of Keyword: kreditvergleich, KeywordMatchType: Exact,
+# 3: Take the dataset you created in 1. Find the cost of Keyword: kreditvergleich, KeywordMatchType: Exact,
 #    Device: Computers and all rows available from february
